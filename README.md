@@ -14,6 +14,30 @@ src="https://img.shields.io/github/followers/devbenavides?logo=github&style=for-
 </p>
 
 
+### Proyectos personales
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Sistema de administración de una tienda</h3>
+<div align="center">
+<a href="https://github.com/devbenavides/store-web-app" target="_blank"><img src="https://private-user-images.githubusercontent.com/20825970/407548182-df3fbc22-9bea-47b2-a783-8364c2652fed.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxMTEzNDQsIm5iZiI6MTczODExMTA0NCwicGF0aCI6Ii8yMDgyNTk3MC80MDc1NDgxODItZGYzZmJjMjItOWJlYS00N2IyLWE3ODMtODM2NGMyNjUyZmVkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDAwMzcyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMzk3ZDJiYzRhMTc1NjZmMmQ4YWJlNzU3ZjEzYWY5OGVhOWY3NWVjODg0Y2JjMmUwZjQ1NjBmZTg3Y2UwY2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qklF5Vvn_Cv-Kn4AUUvI1iQ4Icf3q1BQiuRENPPEWS8" width="400" alt="img"></a>
+  
+<p>
+<a href="https://github.com/devbenavides/store-web-app" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p style="text-align: justify;">Actualmente estoy desarrollando un sistema para la administración de una tienda, enfocado en el control de inventario y ventas. Utilizo Python y Django para el backend; Bootstrap, CSS, HTML y JavaScript para el frontend, creando una interfaz responsive y amigable para el usuario. La información se almacena en PostgreSQL, facilitando el manejo eficiente de grandes volúmenes de datos.</p>
+</div>
+                                                                                      
+</td>
+                                                        
+</table> 
+
+<p align="left"></a>
+</p>
+
+
 ### Redes sociales
 
 <p align="left"> <a href="https://www.github.com/devbenavides" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/benavides-david/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
