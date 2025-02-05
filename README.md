@@ -1,7 +1,7 @@
 Hola 👋  soy David Benavides
 ================================
 
-Ingeniero en informática con experiencia en el desarrollo de aplicaciones móviles y web. Poseo habilidades en programación para Android utilizando Kotlin, así como en desarrollo web con Typescript o Python, trabajando con los framework Angular y Django. Además, tengo experiencia en el desarrollo de microservicios con Spring Boot Java. Estoy comprometido con la mejora continua y el crecimiento profesional en el campo de la programación, con un enfoque en la construcción de aplicaciones eficientes y escalables.
+Ingeniero en Informática con experiencia en el desarrollo de aplicaciones web y móviles. Tengo habilidades en backend con Python (Django) y Java (Spring Boot), creando así soluciones robustas. En el frontend, diseño y desarrollo interfaces dinámicas con TypeScript (Angular) para una experiencia de usuario fluida. Además, poseo conocimientos en el desarrollo de aplicaciones Android con Kotlin. En cuanto a bases de datos, he trabajado con bases de datos relacionales (como MySQL, PostgreSQL y SQLite) y no relacionales (como MongoDB). Estoy comprometido con la mejora continua y la creación de soluciones innovadoras que sean escalables, eficientes y alineadas con las mejores prácticas del sector.
 
 <a href="https://www.github.com/devbenavides" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/devbenavides?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
